@@ -114,7 +114,7 @@ export const RaceForm: React.FC = () => {
                 type="button" 
                 onClick={() => removeLane(lane.laneNumber)}
               >
-                Remove
+                X
               </button>
             </div>
           ))}

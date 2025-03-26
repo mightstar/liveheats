@@ -2,6 +2,10 @@
 
 A web-based system for managing school race days, allowing teachers to set up races, record results, and view race outcomes. Built with React, TypeScript, and designed with Test-Driven Development.
 
+
+https://github.com/user-attachments/assets/21972b07-8eb0-45c0-8809-66d5230fb73c
+
+
 ## Features
 
 - Student Management: Add students who will participate in races
